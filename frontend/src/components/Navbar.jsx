@@ -16,7 +16,7 @@ const Navbar = () => {
                     fontSize='6xl'
                     fontWeight='extrabold'
                 >
-                    <Link to={"/"}>Product Store</Link>
+                    <Link to={"/"}>Product Store 🍳</Link>
                 </Text>
 
             </Flex>
